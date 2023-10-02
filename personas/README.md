@@ -20,4 +20,4 @@ Professional Pool Shark
 
 Jimmy is a pool shark and part time bouncer. He spends most of his time going through different bars and pool clubs taking advantage of new players and their inexperienced betting. He is very cocky and doesn’t have any friends but he doesn’t care. Jimmy has been in a bit of a slump and has seemingly lost his touch at pool. This has led to him seeking out new ways to improve his skills. 
 
-![Alt text](https://as1.ftcdn.net/v2/jpg/04/27/42/94/1000_F_427429422_cmFhAq11kTekKtEcywNGSdp7m8PZhe2A.jpg)
+![Alt text]([https://as1.ftcdn.net/v2/jpg/04/27/42/94/1000_F_427429422_cmFhAq11kTekKtEcywNGSdp7m8PZhe2A.jpg](https://as1.ftcdn.net/v2/jpg/04/27/42/94/1000_F_427429422_cmFhAq11kTekKtEcywNGSdp7m8PZhe2A.jpg)https://as1.ftcdn.net/v2/jpg/04/27/42/94/1000_F_427429422_cmFhAq11kTekKtEcywNGSdp7m8PZhe2A.jpg)
