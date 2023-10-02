@@ -6,7 +6,7 @@
 
 ## UX Team Members
 
-* **[Person A](https://github.com/UsabilityEngineering/ux-portfolio-YizhakTime)** - Added the sketch 
+* **[Yizhak Cohen](https://github.com/UsabilityEngineering/ux-portfolio-YizhakTime)** - Uploaded UX sketch, user storiesand created Introduction and Caveats section 
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
