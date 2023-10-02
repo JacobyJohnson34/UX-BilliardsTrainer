@@ -1,5 +1,5 @@
 # Personas
-**Garret Miller
+**###Garret Miller
 23 Year Old 
 Undergrad in Kinesiology**
 
