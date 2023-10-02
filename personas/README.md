@@ -1,7 +1,7 @@
 # Personas
-##**Garret Miller
-23 Year Old 
-Undergrad in Kinesiology** ##
+##Garret Miller
+##23 Year Old 
+##Undergrad in Kinesiology
 
 Garret enjoys being a student, but enjoys having free-time even more. He is excited to become a professional physical trainer. He is extroverted and spends most of his weekends with his friend group at the local bar. They usually buy a few games of pool.
 
