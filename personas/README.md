@@ -6,7 +6,7 @@ Undergrad in Kinesiology
 Garret enjoys being a student, but enjoys having free-time even more. He is excited to become a professional physical trainer. He is extroverted and spends most of his weekends with his friend group at the local bar. They usually buy a few games of pool.
 
 Garret is competitive even if it is a friendly game. Outside of these meetups he doesn’t have much time to practice so he would like small drills to hone common shots.
-![Alt text]([image](https://as1.ftcdn.net/v2/jpg/00/61/38/24/1000_F_61382409_7Gy8G0K57OS67ggBpSXksaMrIOkqNzpK.jpg)
+![Alt text](https://as1.ftcdn.net/v2/jpg/00/61/38/24/1000_F_61382409_7Gy8G0K57OS67ggBpSXksaMrIOkqNzpK.jpg)
 
 
 Hector Marίa Gonzalez Lòpez
