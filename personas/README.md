@@ -1,5 +1,5 @@
 # Personas
-###**Garret Miller
+**Garret Miller
 23 Year Old 
 Undergrad in Kinesiology**
 
@@ -9,14 +9,14 @@ Garret is competitive even if it is a friendly game. Outside of these meetups he
 ![Alt text](https://as1.ftcdn.net/v2/jpg/00/61/38/24/1000_F_61382409_7Gy8G0K57OS67ggBpSXksaMrIOkqNzpK.jpg)
 
 
-###**Hector Marίa Gonzalez Lòpez
+**Hector Marίa Gonzalez Lòpez
 46 Year Old
 Retired**
 
 Hector is retired, now he spends his time trying new experiences. He gained a new hobby of watching the billiards league. The issue is that where Hector lives, Madrid, Spain, does not have a large pool culture. He is considering purchasing a pool table for his home. Hector would like to learn and possibly meet more players in the sport. 
 ![Alt text](https://as2.ftcdn.net/v2/jpg/06/38/84/29/1000_F_638842961_Xhj4V0KMelvgiUCxREvyUMUIrhlNdqQQ.jpg)
 
-###**Jimmy Hill
+**Jimmy Hill
 31 Years Old
 Professional Pool Shark**
 
