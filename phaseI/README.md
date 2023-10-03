@@ -17,5 +17,5 @@
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
 
 ## Caveats
-We did not take actual feedback from users so we made assumptions about who our users might and thus we could not do any testing. \\
-Furthermore, we do not have a main competitor as our competitors are physical trainers and a static website, but we are website that allow users to create drills and improve their stats.   
+We did not take actual feedback from users so we made assumptions about who our users might and thus we could not do any testing. \
+\Furthermore, we do not have a main competitor as our competitors are physical trainers and a static website, but we are website that allow users to create drills and improve their stats.   
