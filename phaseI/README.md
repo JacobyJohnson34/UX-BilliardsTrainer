@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
+It can be hard to learn a sport for the first time, especially Billiards. Hence, users can now learn how to play Billiards or improve their skills throuhg drills and videos and they can track their stats using by playing against real opponenents and gain experience. 
 
 ## Methods
 
