@@ -18,4 +18,4 @@
 
 ## Caveats
 We did not take actual feedback from users so we made assumptions about who our users might and thus we could not do any testing. \
-\Furthermore, we do not have a main competitor as our competitors are physical trainers and a static website, but we are website that allow users to create drills and improve their stats.   
+Furthermore, we do not have a main competitor as our competitors are physical trainers and a static website, but we are website that allow users to create drills and improve their stats.   
