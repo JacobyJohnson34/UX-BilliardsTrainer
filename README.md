@@ -1,5 +1,5 @@
 # billiardstrainer
-Billiards can be hard to master, hiring private tutors and reading books can only take you so far. billiardstrainer makes it easier to follow drills to improve your skills and hone your skills by playing against other players.
+Billiards can be hard to master, hiring private tutors and reading books can only take you so far. billiardstrainer makes it easier to follow drills to improve your skills and hone your skills by playing against other players. You can track your progress by seeing your real-time stats from playing other people.
 
 ## UX Team Members
 
