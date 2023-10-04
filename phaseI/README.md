@@ -27,8 +27,7 @@ One method of research we participated in is Competitive analysis. We gathered a
 
 
 ## Conclusions
-
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+After collecting data on our competitors, it became clear that interactivity is a struggle for most options. For Youtube and BasicBilliards both options were free and provided great information, but lacked any type of interactivity and skill tracking. The physical trainer and DrillRoom provided interactivity but both cost money. They also require the user to invest much more time and effort to learn. Our project should aim to add at least some form of interactivity while staying affordable. It should also stay simple to use for the convenience of users. 
 
 ## Caveats
 We did not take actual feedback from users so we made assumptions about who our users might and thus we could not do any testing.
