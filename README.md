@@ -4,12 +4,10 @@ Billiards can be hard to master, hiring private tutors and reading books can onl
 ## UX Team Members
 
 * **[Yizhak Cohen](https://github.com/UsabilityEngineering/ux-portfolio-YizhakTime)** - Uploaded UX sketch, user stories and created Introduction and Caveats section 
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+* **[Tim Lyons](https://github.com/UsabilityEngineering/ux-portfolio-AverageOtter)** - Executive Summary, Methods, Primary Contact between teams 
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
- 
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
@@ -20,10 +18,20 @@ Billiards can be hard to master, hiring private tutors and reading books can onl
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+- **Competitive Analysis** of leading competitors found strengths and **oppurtunities for innovation** in key areas:<br>
+_Persistant Users_: Users need a way to **track their progress**!<br>
+_Finding Others_: Players **learn best** while practicing against a **real opponent**!<br>
+_Ability to help others_: Users Like sharing! Give them a way to **teach others**!
+- **Heuristic Evalutation** of a competitor found that having premade drills onboards users easily, and allows users to **start at their own skill level**
+- New Personas and scenarios reflect insights of users experience needs:
+  - Social networking & skill training 
+  - **Easier discovery** of other players and locations
+  - **Exclusion of pool sharks** from the platform
+
+- Sketches and diagrams illustrate initial concepts:
+  - **Intuitive navigation** to quickly navigate related content
+  - Premade Drills to **quickly onboard users**
+  - **Statistic tracking** to evaluate users on progress
 
 [Full phase I report](phaseI/)
 
